@@ -39,7 +39,7 @@
     "esbuild-plugin-solid": "^0.5.0",
     "glob-all": "^3.3.1",
     "just-validate": "^4.3.0",
-    "lightningcss-cli": "^1.22.1",
+    "lightningcss-cli": "^1.23.0",
     "lit": "^3.1.0",
     "mvp.css": "1.14.0",
     "nanostores": "^0.9.5",
