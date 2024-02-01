@@ -44,7 +44,7 @@
     "mvp.css": "1.14.0",
     "nanostores": "^0.9.5",
     "purgecss": "^5.0.0",
-    "sass": "^1.69.5",
+    "sass": "^1.70.0",
     "solid-js": "^1.8.7"
   },
   "browserslist": [
